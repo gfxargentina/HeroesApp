@@ -10,6 +10,7 @@ export const DashBoardRoutes = () => {
         <>
           <Navbar />
 
+          <div className="container mt-2" >
           <Switch>
             <Route exact path="/marvel" component={ MarvelScreen } />
             <Route exact path="/heroes/:heroeId" component={ HeroScreen } />     
@@ -19,6 +20,7 @@ export const DashBoardRoutes = () => {
 
 
           </Switch>  
+          </div>
         </>
     )
 }

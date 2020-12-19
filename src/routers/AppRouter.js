@@ -12,7 +12,7 @@ export const AppRouter = () => {
             <div>
                 <Switch>
                     <Route exact path="/login" component= { LoginScreen } />
-                    <Route  path="/" component={ DashBoardRoutes } />
+                    <Route  path="/" component={ DashBoardRoutes } />                    
                 </Switch>
             </div>
         </Router>
