@@ -13,7 +13,7 @@ export const DashBoardRoutes = () => {
           <div className="container mt-2" >
           <Switch>
             <Route exact path="/marvel" component={ MarvelScreen } />
-            <Route exact path="/heroes/:heroeId" component={ HeroScreen } />     
+            <Route exact path="/hero/:heroeId" component={ HeroScreen } />     
             <Route exact path="/dc" component={ DcScreen } />     
             {/* si no encuentra ninguna de las rutas anteriores redirige a marvel */}
             <Redirect to="/marvel" />
