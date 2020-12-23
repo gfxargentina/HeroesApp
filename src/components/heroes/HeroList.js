@@ -10,7 +10,7 @@ export const HeroList = ({ publisher }) => {
     //const heroes = getHeroesByPublisher( publisher );
 
     return (
-        <div className="card-group" >
+        <div className="card-group animate__animated animate__fadeIn" >
             
             {
                 heroes.map( hero => (
