@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Practica Heroes App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Conceptos Practicados: Rutas públicas, Rutas privadas, Login y logout - Sin backend aún, Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario, Context y Reducer.
 
 ## Available Scripts
 
