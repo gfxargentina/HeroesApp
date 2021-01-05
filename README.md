@@ -1,7 +1,7 @@
 # Practica Heroes App
 
 Conceptos Practicados: Rutas públicas, Rutas privadas, Login y logout - Sin backend aún, Recordar cuál fue la última ruta visitada para mejorar la experiencia de usuario, Context y Reducer.
-Curso de Fernando Herrera react de cero a experto.
+Curso de Fernando Herrera Hooks y MERN.
 
 ## Available Scripts
 
